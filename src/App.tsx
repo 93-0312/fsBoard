@@ -1,5 +1,5 @@
 import "./App.css";
-import FsBoard from "./fsBoard/fsBoard";
+import FsBoard from "./fsBoard/FsBoard";
 
 function App() {
   return (
